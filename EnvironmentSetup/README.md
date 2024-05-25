@@ -12,4 +12,4 @@ Open Visual Studio Code and open the “bicep” folder.
 
 6. Open the terminal in Visual Studio Code and type ```bicep --version```
    1. If you see the version of Bicep, then you have successfully installed the Bicep development environment.
-   2. If you dont see the version of Bicep, then you need to install Bicep manualy by running [this script](../Scripts/InstallBicep.ps1) and then run the command ```bicep --version``` again.
+   2. If you dont see the version of Bicep, then you need to install Bicep manualy by running the script [from here](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/install#install-manually) according to your OS and then run the command ```bicep --version``` again.
